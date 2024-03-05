@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685998089 source:c:\users\hp\desktop\proiect_pp (2)\proiect_pp\app2\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"C:\Users\HP\Desktop\proiect_pp (2)\proiect_pp\shared\data\job.h"
+
+1685997608 c:\users\hp\desktop\proiect_pp (2)\proiect_pp\shared\data\job.h
+	<string>
+	<iostream>
+	<vector>
+
